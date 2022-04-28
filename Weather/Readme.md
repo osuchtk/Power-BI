@@ -22,7 +22,10 @@ In the visualization user in the menu can choose which month and city is showm. 
 
 
 ###### Video 1:
-https://user-images.githubusercontent.com/56642926/165856226-dcc15fa7-4f6c-4b93-b3bf-248ff84a7a44.mp4
+https://user-images.githubusercontent.com/56642926/165856414-a0d168b9-76bf-42bb-9b56-c9f1cb53f02e.mp4
+
+
 
 ###### Video 2:
-https://user-images.githubusercontent.com/56642926/165856283-e7d665db-780b-49a8-87c6-b72d182deef2.mp4
+https://user-images.githubusercontent.com/56642926/165856443-62cc77ce-c3dc-4a94-be3e-6191ba8baac9.mp4
+
