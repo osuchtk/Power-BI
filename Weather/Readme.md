@@ -21,5 +21,11 @@ In the visualization user in the menu can choose which month and city is showm. 
 
 
 
-###### Video:
+###### Video 1:
+https://user-images.githubusercontent.com/56642926/165856414-a0d168b9-76bf-42bb-9b56-c9f1cb53f02e.mp4
+
+
+
+###### Video 2:
+https://user-images.githubusercontent.com/56642926/165856443-62cc77ce-c3dc-4a94-be3e-6191ba8baac9.mp4
 
