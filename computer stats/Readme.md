@@ -6,4 +6,4 @@ At this moment I had to make some workaroud to get the GPU temperature etc. I tr
 
 Gathered data are send using PowerBI API and then they are visualised in few simple charts.
 
-![obraz](https://user-images.githubusercontent.com/56642926/200316296-8abd28e7-57b3-4580-86b0-609b82a46f26.png)
+![obraz](https://user-images.githubusercontent.com/56642926/200317162-5b1fa1fa-5f6b-46c4-b4c9-926d9eed0577.png)
